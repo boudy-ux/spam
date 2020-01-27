@@ -7,7 +7,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("671364794665664512")
 setInterval(function() {
 channel.send(`hla hla hla hla hla hla hla hla hla hla hla`);
-}, 30)
+}, 10)
 })
 
 client.login(process.env.BOT_TOKEN);
