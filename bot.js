@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("671364794665664512")
 setInterval(function() {
-channel.send(`اهلا ازيك عامل ايه كويس الحمدالله وانتا عامل ايه بخير تمام الواحد مش لقي حاجه يعملها`);
+channel.send(`FAST OF THE FURIOS 9 FAST OF THE FURIOS 9 FAST OF THE FURIOS 9`);
 }, 10)
 })
 
